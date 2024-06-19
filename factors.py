@@ -7,3 +7,5 @@ def get_fact(x):
   return factors
   
       
+def mult(x,y):
+  return x*y
