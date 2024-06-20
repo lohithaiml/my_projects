@@ -16,4 +16,4 @@ def mult(x,y):
 
 
 def muladd(x,y):
-  return x*y+20
+  return x*y+2
