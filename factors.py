@@ -8,3 +8,6 @@ def get_fact(x):
 
 def mult(x,y):
   return x*y
+
+def addit(x,y):
+    return x+y
