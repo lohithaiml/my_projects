@@ -8,3 +8,12 @@ def get_fact(x):
 
 def mult(x,y):
   return x*y
+
+
+
+
+
+
+
+def muladd(x,y):
+  return x*y+20
